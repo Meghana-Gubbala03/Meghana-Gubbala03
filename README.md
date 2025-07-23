@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
+### 📫 Connect with me:
+[![Linkedin]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg))](https://www.linkedin.com/in/meghana-g-43269935b)
+[![Gmail]([https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg))](meghana.gubbala@gmail.com)
+
 
 ### 📊 GitHub Stats:
 ![Meghuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghana-Gubbala03&show_icons=true&theme=radical)
