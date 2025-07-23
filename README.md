@@ -26,6 +26,7 @@
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meghana-g-43269935b)  
 [![Gmail](https://img.shields.io/badge/-meghana.gubbala@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](meghana.gubbala@gmail.com)
+[![Visit My Portfolio](https://i.imgur.com/WdPhgzF.png)](https://meghana-gubbala03.github.io/my-portfolio/)
 
 
 ### 📊 GitHub Stats:
