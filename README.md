@@ -7,11 +7,9 @@
 - 💬 Ask me about Java, Python, backend logic, OpenAI/Gemini integrations, building from scratch, or how to balance tech with tradition 🧘‍♂️⚙️
 - 📫 How to reach me: meghana.gubbala@gmail.com and also go on linkedin https://www.linkedin.com/in/meghana-g-43269935b
 - ⚡ Fun fact: I treat every project like a mission—sometimes I even name my bots like they're part of the Avengers 😎
-
 <p align="right">
   <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" alt="Girl Coder GIF" width="300"/>
 </p>
-
 ### 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
