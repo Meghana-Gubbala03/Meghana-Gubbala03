@@ -26,7 +26,10 @@
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meghana-g-43269935b)  
 [![Gmail](https://img.shields.io/badge/-meghana.gubbala@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](meghana.gubbala@gmail.com)
-[![Visit My Portfolio](https://github.com/Meghana-Gubbala03/Meghana-Gubbala03/blob/main/portfolio-banner.png)](https://meghana-gubbala03.github.io/my-portfolio/)
+<a href="https://meghana-gubbala03.github.io/my-portfolio/" target="_blank">
+  <img src="https://raw.githubusercontent.com/Meghana-Gubbala03/Meghana-Gubbala03/main/portfolio-banner.png" alt="Visit My Portfolio" width="300">
+</a>
+
 
 
 ### 📊 GitHub Stats:
