@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on Bhoomi Bot and AiDora
 - 🌱 I’m currently learning Java, Artificial Intelligence, and Data Science to build smarter solutions with real-world impact.
 - 👯 I’m looking to collaborate on Innovative ideas, student-friendly tech tools, AI bots, and anything that helps real people - especially projects with social impact 🌱🤝
-- 💬 Ask me about Java, Python, backend logic, OpenAI/Gemini integrations, building from scratch, or how to balance tech with tradition 🧘‍♂️⚙️<img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" align="right" alt="Girl Coder GIF" width="300"/>
+- 💬 Ask me about Java, Python, backend logic, OpenAI/Gemini integrations, building from scratch,
+    or how to balance tech with tradition 🧘‍♂️⚙️<img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" align="right" alt="Girl Coder GIF" width="300"/>
 - 📫 How to reach me: meghana.gubbala@gmail.com and also go on linkedin https://www.linkedin.com/in/meghana-g-43269935b
 - ⚡ Fun fact: I treat every project like a mission—sometimes I even name my bots like they're part of the Avengers 😎
 - 
