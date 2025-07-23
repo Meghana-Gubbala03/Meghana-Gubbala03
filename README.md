@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gubbala Meghana</h1>
+<h3 align="center">A passionate Engineer from India</h3>
 
-<!--
-**Meghana-Gubbala03/Meghana-Gubbala03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Bhoomi Bot and AiDora
+- 🌱 I’m currently learning Java, Artificial Intelligence, and Data Science to build smarter solutions with real-world impact.
+- 👯 I’m looking to collaborate on Innovative ideas, student-friendly tech tools, AI bots, and anything that helps real people — especially projects with social impact 🌱🤝
+- 💬 Ask me about Java, Python, backend logic, OpenAI/Gemini integrations, building from scratch, or how to balance tech with tradition 🧘‍♂️⚙️
+- 📫 How to reach me: meghana.gubbala@gmail.com and also go on linkedin https://www.linkedin.com/in/meghana-g-43269935b
+- ⚡ Fun fact: I treat every project like a mission—sometimes I even name my bots like they're part of the Avengers 😎
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
+
+### 📫 Connect with me:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meghana-g-43269935b)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](meghana.gubbala@gmail.com)
