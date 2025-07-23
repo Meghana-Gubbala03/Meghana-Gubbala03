@@ -20,8 +20,8 @@
 </p>
 
 ### 📫 Connect with me:
-[![Linkedin]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg))](https://www.linkedin.com/in/meghana-g-43269935b)
-[![Gmail]([https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg))](meghana.gubbala@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meghana-g-43269935b)  
+[![Gmail](https://img.shields.io/badge/-meghuu@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](meghana.gubbala@gmail.com)
 
 
 ### 📊 GitHub Stats:
@@ -30,6 +30,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meghana-Gubbala03&theme=radical)
 
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meghana-g-43269935b)  
-[![Gmail](https://img.shields.io/badge/-meghuu@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](meghana.gubbala@gmail.com)
