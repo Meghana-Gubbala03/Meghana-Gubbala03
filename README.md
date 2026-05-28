@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gubbala Meghana</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
-- 🌱 I’m currently learning Java, Artificial Intelligence, and Data Science to build smarter solutions with real-world impact.
+- 🌱 I’m Java Developer to build smarter solutions with real-world impact.
 - 👯 I’m looking to collaborate on Innovative ideas, student-friendly tech tools, AI bots, and anything that helps real people - especially projects with social impact 🌱🤝
 - 💬 Ask me about Java, Python, backend logic, OpenAI/Gemini integrations, building from scratch,
     or how to balance tech with tradition 🧘‍♂⚙️<img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" align="right" alt="Girl Coder GIF" width="300"/>
